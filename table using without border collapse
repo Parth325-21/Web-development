@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table,th,td{
+border:1px solid black;
+/*border-collapse:collapse;*/
+text-align:left;
+}
+</style>
+</head>
+<body>
+<table style="width:100%">
+<tr>
+<th>Firstname</th>
+<th>lastname</th>
+<th>Age</th>
+</tr>
+<tr>
+<td>Ram</td>
+<td>singh</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Shyam</td>
+<td>kumar</td>
+<td>94</td>
+</tr>
+<tr>
+<td>rahul</td>
+<td>sharma</td>
+<td>30</td>
+</tr>
+</table>
+</body>
+</html>
