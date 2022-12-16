@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>A description</h2>
+<dl>
+<dt>coffee</dt>
+<dd>black hot drink</dd>
+<dt>Milk</dt>
+<dd>whitecold drink</dd>
+<ul style="list-style-type:circle">
+</dl>
+</body>
+</html>
