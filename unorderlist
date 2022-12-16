@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>An unorderlist html</h2>
+<ul>
+<li>MCA</li>
+<li>MBA</li>
+<li>B.tech</li>
+</ul>
+</body>
+</html>
